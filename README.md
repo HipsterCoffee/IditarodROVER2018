@@ -20,3 +20,9 @@ Arduino IDE: https://www.arduino.cc/en/Main/Software - programming the actual mo
 * Use the X-bees component to send Arduino code wierlessly to the ROVER
 
 * Complete as many monthly challanges as we can
+
+
+Links for wireless setup:
+https://learn.sparkfun.com/tutorials/xbee-shield-hookup-guide/example-communication-test
+https://eewiki.net/display/Wireless/XBee+Wireless+Communication+Setup  (might be for a different XBee Product)
+https://www.digi.com/xbee (the actual website, has a search bar for issues)
