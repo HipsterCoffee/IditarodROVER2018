@@ -20,3 +20,5 @@ Arduino IDE: https://www.arduino.cc/en/Main/Software - programming the actual mo
 * Use the X-bees component to send Arduino code wierlessly to the ROVER
 
 * Complete as many monthly challanges as we can
+
+https://learn.sparkfun.com/tutorials/xbee-shield-hookup-guide/example-remote-control-arduino
